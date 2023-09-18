@@ -1,4 +1,4 @@
-\\Estilização para as imagens sempre permanecerem no centro da tela
+/* Estilização para as imagens sempre permanecerem no centro da tela */
 body {
     display: flex;
     justify-content: center;
